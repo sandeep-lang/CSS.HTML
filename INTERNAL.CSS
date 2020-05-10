@@ -1,0 +1,33 @@
+    <html>
+    <head>
+        <title>HII THERWWE</title>
+            <style type="text/css">
+            body {
+                font-family: Arial;
+                background-color:rgb(45, 49, 45)}
+                h1 {
+                     color: rgb(200, 200, 200);
+                     font-family: cursive;
+                     text-align: center;
+                     box-shadow:royalblue;
+                    }
+            p {
+                font-family: Arial, Helvetica, sans-serif;
+                color: royalblue;
+            }      
+            p1 {
+                font-weight: 100;
+                font-style: unset;
+                font-family: initial;
+                color: lightcoral;
+            }
+            </style>
+             </head>
+             <body>
+                 <h1>THIS IS INTERNAL CSS</h1>
+                 <p>THESE CAN BE DONE BY ADDING STYLE TYPE TO THE CODE<BR>
+                    THE CSS IS USED TO STYLE A WEB PAGE TO APPLY COLOURS</p><BR>
+                   <p>CSS IS STANDS FOR CASCADING STYLE SHEET FOR COLORING<BR>
+                     PURPOSE WE USE CSS TO VIEW THE PAGE WITH BRIGHT COLOURS</p>     
+             </body> 
+             </html>
